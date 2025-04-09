@@ -1,1 +1,1 @@
-# Generative-Adversarial-Networks-Specialization
+# Generative Adversarial Networks Specialization
